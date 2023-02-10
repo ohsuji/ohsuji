@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋🏻 안녕하세요!
 
-<!--
-**ohsuji/ohsuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 My | Skills 
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=000000)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=React)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=Bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=for-the-badge&logo=Sass)
+
+![Git](https://img.shields.io/badge/-Git-eeeeee?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-eeeeee?style=for-the-badge&logo=gitHub)
+![Netlify](https://img.shields.io/badge/-Netlify-eeeeee?style=for-the-badge&logo=Netlify)
+![Figma](https://img.shields.io/badge/-Figma-eeeeee?style=for-the-badge&logo=Figma)
+
+
