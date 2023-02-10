@@ -6,7 +6,7 @@ const CONCHO = {
   Name: "OH SUJI",
   Work Experience: "Baby Developer 👶🏻",
   Career Objective: [ UX/UI | Front Developer ],
-  Skills: [ HTML, CSS, Javascript, React],
+  Code: [ HTML, CSS, Javascript, React],
   My Velog: "https://velog.io/@concho",
   My Favorite Things: [ Cat 🐈‍⬛, travle 🚀]
   Challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript and React 🔥"
