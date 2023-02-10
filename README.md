@@ -30,4 +30,12 @@ const CONCHO = {
 ![Netlify](https://img.shields.io/badge/-Netlify-eeeeee?style=for-the-badge&logo=Netlify)
 ![Figma](https://img.shields.io/badge/-Figma-eeeeee?style=for-the-badge&logo=Figma)
 
-<!-- # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>또 만나요~ -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohsuji&show_icons=true&locale=en&layout=compact" alt="ohsuji" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohsuji&show_icons=true&locale=en" alt="ohsuji" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&" alt="ohsuji" /></p>
+
+<br>
+
+## 또 만나요~ <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
