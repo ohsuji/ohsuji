@@ -31,8 +31,8 @@ const CONCHO = {
 ![Netlify](https://img.shields.io/badge/-Netlify-eeeeee?style=for-the-badge&logo=Netlify)
 ![Figma](https://img.shields.io/badge/-Figma-eeeeee?style=for-the-badge&logo=Figma)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohsuji&show_icons=true&locale=en&layout=compact" alt="ohsuji" /></p>
+<br>
+<p><img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohsuji&show_icons=true&locale=en&layout=compact" alt="ohsuji" />
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=ohsuji&show_icons=true&locale=en" alt="ohsuji" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohsuji&show_icons=true&locale=en" alt="ohsuji" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&" alt="ohsuji" /></p>
+<p><img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&" alt="ohsuji" /></p>
