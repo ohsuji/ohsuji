@@ -25,6 +25,8 @@ const CONCHO = {
   ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=Sass&logoColor=ffffff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=Bootstrap&logoColor=ffffff)
   ![jQuery](https://img.shields.io/badge/-jQuery-0168ae?style=for-the-badge&logo=jQuery&logoColor=ffffff)
+  
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
   ![Git](https://img.shields.io/badge/-Git-eeeeee?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-eeeeee?style=for-the-badge&logo=gitHub&logoColor=000000)
@@ -40,8 +42,8 @@ const CONCHO = {
 <hr>
 
 <br/> <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
-&nbsp; &nbsp; &nbsp; 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
+&nbsp; &nbsp;
+<img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
 
  
