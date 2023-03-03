@@ -42,8 +42,12 @@ const CONCHO = {
 <hr>
 
 <br/> <br/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
-&nbsp; &nbsp;
-<img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
 
- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ohsuji&theme=column=7)](https://github.com/ohsuji/)
+
+<br/>
+
+<img width="43%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
+&nbsp;
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
+
