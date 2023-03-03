@@ -30,12 +30,15 @@ const CONCHO = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=React&logoColor=ffffff)
 
-![Git](https://img.shields.io/badge/-Git-eeeeee?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-eeeeee?style=for-the-badge&logo=gitHub&logoColor=000000)
-![Netlify](https://img.shields.io/badge/-Netlify-eeeeee?style=for-the-badge&logo=Netlify)
+![Npm](https://img.shields.io/badge/-Npm-eeeeee?style=for-the-badge&logo=Npm)
+![Yarn](https://img.shields.io/badge/-Yarn-eeeeee?style=for-the-badge&logo=Yarn)
 ![Pwa](https://img.shields.io/badge/-Pwa-eeeeee?style=for-the-badge&logo=Pwa&logoColor=570fc2)
 ![Firebase](https://img.shields.io/badge/Firebase-eeeeee?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Figma](https://img.shields.io/badge/-Figma-eeeeee?style=for-the-badge&logo=Figma)
+
+![Git](https://img.shields.io/badge/-Git-eeeeee?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-eeeeee?style=for-the-badge&logo=gitHub&logoColor=000000)
+![Netlify](https://img.shields.io/badge/-Netlify-eeeeee?style=for-the-badge&logo=Netlify)
 
 <br/>
 
