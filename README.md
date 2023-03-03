@@ -44,10 +44,6 @@ const CONCHO = {
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ohsuji&theme=column=7)](https://github.com/ohsuji/)
-
-<br/>
-
 <p align="center">
   <img width="43%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
   &nbsp;&nbsp;
