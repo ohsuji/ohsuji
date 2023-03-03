@@ -1,4 +1,5 @@
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">안녕하세요! 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">안녕하세요! 
+==================================================================================================================================
 
 **세상에 존재하는 모든 서비스를 온라인으로 옮기고 싶은 신입 개발자입니다!** <br>
 **사용자에 따라 다양한 상호작용 할 수 있는 만능 웹 서비스를 개발하는 것이 목표입니다.**
@@ -41,13 +42,14 @@ const CONCHO = {
 
 <hr>
 
-<br/> <br/>
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ohsuji&theme=column=7)](https://github.com/ohsuji/)
 
 <br/>
 
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
-&nbsp;
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
+</p>
