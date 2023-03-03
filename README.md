@@ -49,7 +49,7 @@ const CONCHO = {
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
 </p>
