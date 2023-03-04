@@ -25,8 +25,6 @@ const CONCHO = {
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=Sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=Bootstrap&logoColor=ffffff)
-![jQuery](https://img.shields.io/badge/-jQuery-0168ae?style=for-the-badge&logo=jQuery&logoColor=ffffff)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=React&logoColor=ffffff)
 
