@@ -15,36 +15,37 @@ const CONCHO = {
 }
 ```
 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=concho)](https://velog.io/@concho) 
+
 <br/>
 
 ## 📚 My | Skills 
 
 <br/>
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=Sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=Bootstrap&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=React&logoColor=ffffff)
-
-![Npm](https://img.shields.io/badge/-Npm-eeeeee?style=for-the-badge&logo=Npm)
-![Yarn](https://img.shields.io/badge/-Yarn-eeeeee?style=for-the-badge&logo=Yarn)
-![Pwa](https://img.shields.io/badge/-Pwa-eeeeee?style=for-the-badge&logo=Pwa&logoColor=570fc2)
-![Firebase](https://img.shields.io/badge/Firebase-eeeeee?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Figma](https://img.shields.io/badge/-Figma-eeeeee?style=for-the-badge&logo=Figma)
-
-![Git](https://img.shields.io/badge/-Git-eeeeee?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-eeeeee?style=for-the-badge&logo=gitHub&logoColor=000000)
-![Netlify](https://img.shields.io/badge/-Netlify-eeeeee?style=for-the-badge&logo=Netlify)
-
-<br/>
+<div align="center">
 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohsuji&theme=buefy&show_icons=true&locale=en&layout=compact" alt="ohsuji" />
  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=concho)](https://velog.io/@concho) 
- 
-<br/>
+  ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+  ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=Bootstrap&logoColor=ffffff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
+  ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=React&logoColor=ffffff)
+
+  ![Npm](https://img.shields.io/badge/-Npm-eeeeee?style=for-the-badge&logo=Npm)
+  ![Yarn](https://img.shields.io/badge/-Yarn-eeeeee?style=for-the-badge&logo=Yarn)
+  ![Pwa](https://img.shields.io/badge/-Pwa-eeeeee?style=for-the-badge&logo=Pwa&logoColor=570fc2)
+  ![Firebase](https://img.shields.io/badge/Firebase-eeeeee?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+  ![Figma](https://img.shields.io/badge/-Figma-eeeeee?style=for-the-badge&logo=Figma)
+
+  ![Git](https://img.shields.io/badge/-Git-eeeeee?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-eeeeee?style=for-the-badge&logo=gitHub&logoColor=000000)
+  ![Netlify](https://img.shields.io/badge/-Netlify-eeeeee?style=for-the-badge&logo=Netlify)
+
+</div>
+
+<br/>  
 
 <hr>
 
