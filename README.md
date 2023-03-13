@@ -14,9 +14,6 @@ const CONCHO = {
   Challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript and React 🔥",
 }
 ```
-
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=concho)](https://velog.io/@concho) 
-
 <br/>
 
 ## 📚 My | Skills 
@@ -51,8 +48,12 @@ const CONCHO = {
 
 <br/>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=concho)](https://velog.io/@concho) 
+ 
+<br />
+
 <p align="center">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
   &nbsp;&nbsp;
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
 </p>
