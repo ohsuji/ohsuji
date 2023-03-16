@@ -48,8 +48,11 @@ const CONCHO = {
 
 <br/>
 
+<p width="50%">
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=concho)](https://velog.io/@concho) 
- 
+  
+</p> 
 <br />
 
 <p align="center">
