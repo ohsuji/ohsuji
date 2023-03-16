@@ -22,7 +22,7 @@ const CONCHO = {
 
 <div align="center">
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohsuji&theme=buefy&show_icons=true&locale=en&layout=compact" alt="ohsuji" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohsuji&theme=dracula&show_icons=true&locale=en&layout=compact" alt="ohsuji" />
  
   ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -47,16 +47,16 @@ const CONCHO = {
 <hr>
 
 <br/>
-
-<p width="50%">
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=concho)](https://velog.io/@concho) 
-  
-</p> 
 <br />
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=nightowl&show_icons=true&locale=en" alt="ohsuji" /> 
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ohsuji&theme=dracula&show_icons=true&locale=en" alt="ohsuji" /> 
   &nbsp;&nbsp;
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsuji&theme=rose_pine" alt="ohsuji" />
 </p>
+
+<br/>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=concho)](https://velog.io/@concho) 
+
