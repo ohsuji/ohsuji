@@ -33,7 +33,7 @@ const CONCHO = {
   ![Npm](https://img.shields.io/badge/-Npm-eeeeee?style=for-the-badge&logo=Npm)
   ![Yarn](https://img.shields.io/badge/-Yarn-eeeeee?style=for-the-badge&logo=Yarn)
   ![Pwa](https://img.shields.io/badge/-Pwa-eeeeee?style=for-the-badge&logo=Pwa&logoColor=570fc2)
-  ![Firebase](https://img.shields.io/badge/Firebase-eeeeee?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+<!--   ![Firebase](https://img.shields.io/badge/Firebase-eeeeee?style=for-the-badge&logo=firebase&logoColor=FFCA28) -->
   ![Figma](https://img.shields.io/badge/-Figma-eeeeee?style=for-the-badge&logo=Figma)
 
   ![Git](https://img.shields.io/badge/-Git-eeeeee?style=for-the-badge&logo=git)
